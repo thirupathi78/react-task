@@ -1,0 +1,18 @@
+.items-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border: 2px solid green;
+  padding: 8px;
+}
+
+p {
+  color: pink;
+  font-family: 'Roboto';
+  padding-right: 250px;
+}
+
+h1 {
+  font-family: 'Roboto';
+  font-size: 22px;
+}
